@@ -1,6 +1,6 @@
 # Forkify 🍴
 
-![Forkify](src/img/logo.png);
+![Forkify](src/img/logo.png)
 
 Forkify is a web application that allows you to search for recipes, view their details, and save your favorite recipes. 🔍👩‍🍳📚
 
